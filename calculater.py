@@ -1,0 +1,5 @@
+print(2/4)
+print(2//4)
+print(2**0.5)
+print(round(2**0.5),4)
+print((2+3)*5/2%6)
